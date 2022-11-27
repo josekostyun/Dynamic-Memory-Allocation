@@ -8,7 +8,7 @@ You are writing a program to estimate how many monsters of each type they can ex
 • You've got a Small Monster Index that tells you the name, type, and relative commonality of all the small
 monsters in question.
 
-o (A monster’s absolute commonality is the same in each region. A monster’s relative commonality will
+    o(A monster’s absolute commonality is the same in each region. A monster’s relative commonality will
       change region by region as calculations are performed – we’ll show you how that works shortly.)
 
 • You've also got an atlas that tells you about the relevant regions and which small monsters are present in them.
